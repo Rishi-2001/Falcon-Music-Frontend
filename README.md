@@ -63,8 +63,7 @@ $ git clone https://github.com/ArnavBorkar/Falcon-Music-Frontend.git
 1. Frontend of the whole project is done using HTML and CSS and JS.
 2. A server has been created that using Express and NodeJS that hosts the website.
 3. Firebase has been used to store song data and the songs have been stored on firebase's storage service.
-4. No APIs have been used to create this music player.
-5. The site is entirely responsive and has a interface on mobiles and tabs as good as on PCs if not better.
+4. The site is entirely responsive and has a interface on mobiles and tabs as good as on PCs if not better.
 
 
 ## Future Implementations
